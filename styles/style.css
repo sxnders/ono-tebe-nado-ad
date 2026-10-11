@@ -1,5 +1,6 @@
 body {
   color: #000;
+  font-family: Raleway;
   font-size: 18px;
   line-height: 1.35;
   background-color: #fff;
@@ -115,7 +116,7 @@ body {
   padding: 10px 32px;
   border: 1px solid #fff;
   color: #fff;
-  font-family: inherit;
+  font-family: Raleway;
   font-size: 22px;
   text-transform: uppercase;
   background: transparent;
